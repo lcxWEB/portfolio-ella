@@ -120,7 +120,7 @@ export function NavbarSimple() {
                     variant="h6"
                     className="mr-4 cursor-pointer py-1.5 flex gap-4 text-2xl"
                 >
-                    <Image src="/ella.jpg" alt="logo" width={100} height={100} />
+                    <Image src="/ella.png" alt="logo" width={100} height={100} />
                 </Typography>
                 <div className="hidden lg:block">
                     <NavList />
