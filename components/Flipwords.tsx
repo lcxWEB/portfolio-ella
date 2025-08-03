@@ -10,8 +10,8 @@ export function FlipWordsDemo() {
                 Welcome!
             </div>
             <div className="text-3xl font-normal text-neutral-600 dark:text-neutral-400">
-                I am Ella Li, a software engineer<br/>
-                with<FlipWords words={words}/>
+                I am Ella Li, a software engineer with 8 years of experience<br/>
+                Valuing <FlipWords words={words}/>
             </div>
         </div>
     );
